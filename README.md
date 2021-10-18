@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chisha2004, Fulll stack developer.
+- 👋 Hi, I’m Chisha Malama (@Chisha2004), Fulll stack developer.
 - 👀 I’m interested in Java, Angular, JavaScript, Mysql, HTML, Css 
 - 🌱 I’m currently learning Blender 3D animation
 - 💞️ I’m looking to collaborate on any intresting java or angular projecting
